@@ -1,3 +1,4 @@
 # Ignore datasets
 data/
 .ipynb_checkpoints
+venv/
